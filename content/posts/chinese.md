@@ -1,6 +1,6 @@
 ---
 date: 2019-11-14T11:25:05-04:00
-description: 本文章采用狗屁不通文章生成器生成,无任何实际含义.
+description: 本文是对2023年都柏林男性留学生性骚扰事件的整理和说明，以示警醒
 featured_image: "/images/chinese.jpg"
 tags: [Chinese,text]
 title: "中文文本测试"
