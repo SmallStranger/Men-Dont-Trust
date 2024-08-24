@@ -1,7 +1,7 @@
 ---
 date: 2024-08-14T11:25:05-04:00
 description: 本文翻译自HSE.ie文章，解释权归HSE所有
-featured_image: "/images/image1.jpg"
+featured_image: "/images/Victor_Hugo-Hunchback.jpg"
 tags: ['sexual harassment']
 title: "工作中的性骚扰"
 categories: information
