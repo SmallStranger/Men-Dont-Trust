@@ -20,10 +20,10 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sexual-harassment-education/</loc>
-    <lastmod>2024-08-14T11:25:05-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/sexual-harassment-work/</loc>
     <lastmod>2024-08-14T11:25:05-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sexual-harassment-education/</loc>
+    <lastmod>2024-08-13T11:25:05-04:00</lastmod>
   </url>
 </urlset>
