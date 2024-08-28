@@ -22,8 +22,7 @@ theme = "diary"
 subtitle = "Dublin, Ireland"
 enableGitalk = false
 enableGiscus = false
-enableDisqus = true
-comment = true
+disqusShortname = 'mendonttrust'
 
 # Twitter Card and Open Graph settings
 enableOpenGraph = true
@@ -34,26 +33,6 @@ description = "My HomePage Description"  # will set 'og:description'
 [taxonomies]
    tag = "tags"
    category = "categories"
-
-
-# Please visit https://giscus.app/ to generate settings.
-[params.giscus]
-    data_repo="username/repo"
-    data_repo_id="**************************"    
-    data_category="General"
-    data_category_id="*********************"
-    data_mapping="pathname"
-    data_strict="0"
-    data_reactions_enabled="1"
-    data_emit_metadata="0"
-    data_input_position="bottom"
-    data_theme="preferred_color_scheme"
-    data_lang="en"
-    crossorigin="anonymous"
-
-[services]
-  [services.disqus]
-    shortname = 'mendonttrust'
 
 [[menu.main]]
 url = "/categories"
